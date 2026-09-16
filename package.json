@@ -1,0 +1,22 @@
+{
+  "name": "playwright_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewJuniorB/Playwright_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewJuniorB/Playwright_Project/issues"
+  },
+  "homepage": "https://github.com/AndrewJuniorB/Playwright_Project#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^22.20.3"
+  }
+}
